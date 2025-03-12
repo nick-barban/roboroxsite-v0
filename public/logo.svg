@@ -1,0 +1,9 @@
+<svg width="150" height="50" viewBox="0 0 150 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 10H30V40H10V10Z" fill="#8bc34a"/>
+  <circle cx="15" cy="20" r="2" fill="#ffffff"/>
+  <circle cx="25" cy="20" r="2" fill="#ffffff"/>
+  <path d="M15 30C15 30 20 35 25 30" stroke="#ffffff" strokeWidth="2" strokeLinecap="round"/>
+  <path d="M35 15H140V35H35V15Z" fill="#8bc34a"/>
+  <text x="40" y="30" fontFamily="Arial" fontSize="16" fontWeight="bold" fill="#ffffff">CodeRobot</text>
+  <path d="M5 25C5 25 0 20 0 15V10C0 5 5 0 10 0H30C35 0 40 5 40 10V15C40 20 35 25 35 25" stroke="#ffc107" strokeWidth="2"/>
+</svg>
